@@ -1,0 +1,9 @@
+<plugin name='ambasadoro-plugin-bigbluebutton' version='0.3' grailsVersion='2.3 &gt; *'>
+  <author>Jesus Federico</author>
+  <title>Ambasadoro Plugin Bigbluebutton Grails Plugin</title>
+  <description>Brief summary/description of the plugin.
+</description>
+  <documentation>http://grails.org/plugin/ambasadoro-plugin-bigbluebutton</documentation>
+  <type>AmbasadoroPluginBigbluebuttonGrailsPlugin</type>
+  <resources />
+</plugin>
