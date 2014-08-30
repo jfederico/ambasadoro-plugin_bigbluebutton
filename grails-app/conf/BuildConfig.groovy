@@ -57,6 +57,6 @@ grails.project.dependency.resolution = {
             export = false
         }
 
-        compile(":ambasadoro-plugin:0.2")
+        compile(":ambasadoro-plugin:0.5")
     }
 }
